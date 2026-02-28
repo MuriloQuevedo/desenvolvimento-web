@@ -16,7 +16,7 @@ Aplicação de ferramentas voltadas para o desenho de protótipos e para a const
 
 Fundamentos de Versionamento e Publicação (Deploy)
 
-A disciplina de Web Design atua como uma ponte, unindo a estética visual às tecnologias de ponta para entregar interfaces digitais que sejam úteis e visualmente atrativas.
+A disciplina atua como uma ponte, unindo a estética visual às tecnologias de ponta para entregar interfaces digitais que sejam úteis e visualmente atrativas.
 
 O gerenciamento de código-fonte é vital para mapear o histórico de mudanças, possibilitando resgatar estados anteriores do projeto, facilitar o trabalho em equipe e criar ramificações para programar funcionalidades simultaneamente.
 
