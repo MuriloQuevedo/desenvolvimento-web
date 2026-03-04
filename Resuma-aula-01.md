@@ -74,7 +74,7 @@ AC1 (15%): Teste teórico composto por questões de múltipla escolha.
 
 AC2 (30%): Entrega de um projeto prático, acompanhada de apresentação oral e estudo comparativo de mercado (benchmarking).
 
-Nota Geral (10%): Avaliação do engajamento, frequência e participação nas dinâmicas de sala de aula.
+Nota Geral (10%): Avaliação online feita pela faculdade,para entender o nível dos alunos
 
 AF (45%): Entrega final da documentação do projeto, estruturada de forma robusta, nos moldes de um Trabalho de Conclusão de Curso (mini TCC).
 
